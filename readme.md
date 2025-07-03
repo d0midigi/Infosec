@@ -1,5 +1,5 @@
 # Infosec Getting Started
-My infosec knowledge base. You can find the rendered version here: https://infosec.grds.io or https://gradiuscypher.github.io/infosec_getting_started.
+HackHerWay: Infosec Knowledge Base
 
 You can find the Markdown-based content for this repository here: [docs/](docs/)
 # Contributing
